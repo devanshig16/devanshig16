@@ -1,8 +1,1 @@
-print("DO YOU WANT TO ADD NUMBERS? Y/N ")
-choice=input("ENTER Y FOR YES AND N FOR NO")
-while choice=="Y":
-    num1=int(input("enter first number"))
-    num2=int(input("enter second number"))
-    sum=num1+num2
-    print(sum)
-    break
+
